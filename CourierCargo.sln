@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CourierCargo", ".", "{703BF1B0-9263-4436-AAAD-ABB2242CBD69}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		Debug.AspNetCompiler.VirtualPath = "/CourierCargo"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\CourierCargo\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\CourierCargo\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/CourierCargo"
+		Release.AspNetCompiler.PhysicalPath = "..\..\CourierCargo\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\CourierCargo\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1085"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{703BF1B0-9263-4436-AAAD-ABB2242CBD69}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{703BF1B0-9263-4436-AAAD-ABB2242CBD69}.Debug|.NET.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E67729F-F85E-4AD5-90E2-42D70177AD65}
+	EndGlobalSection
+EndGlobal
